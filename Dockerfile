@@ -1,4 +1,4 @@
-FROM python:3.6.2
+FROM vaultvulp/pipenv-ubuntu
 
 MAINTAINER vaultvulp
 
